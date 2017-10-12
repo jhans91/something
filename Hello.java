@@ -1,12 +1,12 @@
 public class Hello{
 	public static void main(String[] args){
 		System.out.println("Hello Git world");
-		System.out.println("second branch¿¡¼­ ÀÛ¾÷ÇÔ");	
+		System.out.println("second branchì—ì„œ ì‘ì—…í•¨");	
 
-		System.out.println("3¹øÂ° ÀÛ¾÷À» Ãß°¡");	
+		System.out.println("3ë²ˆì§¸ ì‘ì—…ì„ ì¶”ê°€");	
 
-		°°Àº¶óÀÎ¿¡ Ãæµ¹À» È®ÀÎÇÏ±âÀ§ÇØddddddddddddddddd Ãß°¡ÇÕ´Ï´Ù.
-		System.out.println("second branch¿¡¼­ ´Ù½Ã ÀÛ¾÷ÇÔ");
+		ê°™ì€ë¼ì¸ì— ì¶©ëŒì„ í™•ì¸í•˜ê¸°ìœ„í•´ddddddddddddddddd ì¶”ê°€í•©ë‹ˆë‹¤.
+		System.out.println("sdddddddecond branchì—ì„œ ë‹¤ì‹œ ì‘ì—…í•¨");
 
 	}
 }

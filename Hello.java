@@ -5,7 +5,7 @@ public class Hello{
 
 		System.out.println("3번째 작업을 추가");	
 
-		같은라인에 충돌을 확인하기위해 추가합니다.
+		같은라인에 충돌을 확인하기위해ddddddddddddddddd 추가합니다.
 		System.out.println("second branch에서 다시 작업함");
 
 	}
